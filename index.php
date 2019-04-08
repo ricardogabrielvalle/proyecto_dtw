@@ -7,6 +7,7 @@
 
 <h1>Control de versiones</h1>
 <p>Página index de práctica de control de versiones</p>
+  <p> HOLA MUNDO </p>
 
 </body>
 </html>
